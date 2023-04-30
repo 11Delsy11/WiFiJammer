@@ -16,9 +16,9 @@
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-bash TBomb.sh
+git clone https://github.com/11Delsy11/WiFiJammer.git
+cd WiFiJammer
+bash b.sh
 ```
 
 ## Usage
